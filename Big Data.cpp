@@ -1,12 +1,4 @@
-#include <algorithm>
-#include <iostream>
-#include <fstream>
-#include <iomanip>
-#include <sstream>
-#include <string>
-#include <vector>
-#include <deque>
-#include <cmath>
+#include<bits/stdc++.h>
 using namespace std;
 typedef long int64 ;
 class bigint : vector<int> {
